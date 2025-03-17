@@ -1,0 +1,1 @@
+This is the code related to the article "Identification of OPM-Meg Physiological Artifacts Based on Channel Attention Mechanism" to help readers understand our method.
